@@ -237,8 +237,8 @@ http://181.78.0.107:8006/play/a09v/index.m3u8
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46102.ts
 #EXTINF:-1 tvg-id="CDINA" tvg-name="CINEMA DINAMITA" tvg-logo="https://i.ibb.co/bbDPNVG/CINEDINAMITA.png" group-title="CINE",CINEMA DINAMITA
 http://netgotvpro.cc:8880/live/juan_ferez/Ferez2023J/46116.ts
-#EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="CINEMA HD" tvg-logo="https://i.ibb.co/L0KQK4J/ciensa.png" group-title="CINE",CINEMA HD
-http://190.60.37.154:45000/play/a04n/index.m3u8
+#EXTINF:-1 tvg-id="AzCinema.mx" tvg-name="CINEMA 1HD" tvg-logo="https://i.ibb.co/L0KQK4J/ciensa.png" group-title="CINE",CINEMA 1HD
+http://45.5.118.152:8000/play/a03p/index.m3u8
 #EXTINF:-1 tvg-id="CINEMAX HD.co" tvg-name="CINEMAX OP1" tvg-logo="https://i.ibb.co/QjX0fqW/cienmax1.png" group-title="CINE",CINEMAX OP1
 http://45.70.168.162:8100/play/a00x/index.m3u8
 #EXTINF:-1 tvg-id="Cinemax.ar" tvg-name="CINEMAX OP2" tvg-logo="https://i.ibb.co/zSbPFXZ/cienmax2.png" group-title="CINE",CINEMAX OP2
